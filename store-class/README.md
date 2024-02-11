@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/132lgq6lmwqoxe7n?svg=true)](https://ci.appveyor.com/project/Silverscreened19/ra-components-class)
+
+https://silverscreened19.github.io/ra-components-class/
+
 Страница интернет-магазина
 ===
 
@@ -65,3 +69,5 @@ return (
 Реализуйте полноценный проект с помощью create-react-app. Для item можете использовать либо тип `object`, либо вынести item в класс и использовать `instanceOf`.
 
 Используйте расположенный в этом каталоге CSS для стилизации.
+
+**Необязательная часть задачи (со звездочкой)**: задействуйте prop-types в реализации проекта.
