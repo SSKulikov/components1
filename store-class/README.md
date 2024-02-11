@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/132lgq6lmwqoxe7n?svg=true)](https://ci.appveyor.com/project/Silverscreened19/ra-components-class)
+[![Build status](https://ci.appveyor.com/api/projects/status/j3v35ds33r8r5aw3?svg=true)](https://ci.appveyor.com/project/SSKulikov/components1)
 
 https://silverscreened19.github.io/ra-components-class/
 
